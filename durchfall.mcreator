@@ -1,0 +1,50 @@
+{
+  "mod_elements": [
+    {
+      "name": "Durchfall",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "durchfall"
+    },
+    {
+      "name": "DurchfallEffect",
+      "type": "potioneffect",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "durchfall_effect"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "effect.durchfall.durchfall_effect": "Durchfall",
+      "item.durchfall.durchfall": "Durchfall"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "durchfall",
+    "modName": "Durchfall",
+    "version": "1.0.0",
+    "author": "Janosh, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.durchfall",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
