@@ -15,6 +15,17 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "durchfall_effect"
+    },
+    {
+      "name": "DurchfallEffectAktiveTickBedingung",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "durchfall_effect_aktive_tick_bedingung",
+      "metadata": {
+        "dependencies": []
+      }
     }
   ],
   "variable_elements": [],
